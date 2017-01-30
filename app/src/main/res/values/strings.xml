@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DateMe</string>
+    <string name="next_name">Preferences</string>
+    <string name="match_name">Matches</string>
+    <string name="username">name</string>
+    <string name="input">CHANGE NAME HERE</string>
+
+    <!-- NextActivity -->
+    <string name="Tel.no">Tel.no:</string>
+    <string name="info">Info:</string>
+    <string name="gen_1">Man</string>
+    <string name="gen_2">Woman</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="hob_1">Coding</string>
+    <string name="hob_2">Gym</string>
+    <string name="hob_3">Football</string>
+    <string name="matchable">Seeking matches:</string>
+
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
